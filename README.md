@@ -235,7 +235,7 @@ Lambda Function
 ## 👨‍💻 Author
 
 Akash Aralikatti  
-GitHub:  
+GitHub:  https://github.com/akashak0717
 LinkedIn: www.linkedin.com/in/akasharalikatti0717  
 Email: akasharalikatti04@gmail.com
 
